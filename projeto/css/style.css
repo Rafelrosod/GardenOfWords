@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-y: scroll;
+}
+.screen{
+    position: relative;
+    width: 100vw;
+    height: 500px;
+    background-color: #093e25;
+}
+.video{
+    display: flex;
+    position: relative;
+    top: 63px;
+    left: 120px;
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+.sub-titulo {
+    position: relative;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+    left: 120px;
+    top: 60px;
+}
+.kanji{
+    position: relative;
+    display: flex;
+    color: white;
+    left: 800px;
+    font-size: 60px;
+    bottom: 300px;
+}
+.titulo{
+    position: relative;
+    display: flex;
+    color: white;
+    font-size: 80px;
+    left: 800px;
+    bottom: 270px;
+}
+
+
+
+
+
+
+
+.screen1 {
+    width: 100vw;
+    height: auto;
+    background-color: white;
+    text-align: center;
+}
+.Synopsis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 80px;
+}
+.Synopsis p {
+    max-width: 500px; 
+    text-align: left;
+}
+.Synopsis img {
+    max-width: 300px;
+    height: auto;
+}
+.titulo2{
+    text-align: center;
+    font-size: 60px;
+    margin: 40px;
+}
+.conteudo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.screen2{
+    color: white;
+    text-align: center;
+    background-color:#093e25 ;
+    width: 100vw;
+    height: auto;
+    align-items: center;
+}
+.promessa{
+    display: flex;
+    justify-content: center;
+}
+#frase{
+    margin-top: 50px;
+    margin-right: 510px;
+}
+#frase1{
+    margin-top: 50px;
+}
+.screen2 .imagens{
+    display: flex;
+    justify-content: center;
+}
+.screen2 .imagens img {
+    margin: 40px 40px 60px; 
+}
+#img1 {
+    max-width: 300px;
+    height: auto;
+}
+#img2{
+    max-width: 286px;
+    height: auto;
+
+}
+#img3{
+    max-width: 300px;
+    height: auto;
+}
