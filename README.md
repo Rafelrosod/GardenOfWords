@@ -11,9 +11,6 @@ projeto
 ├── pasta css
 │   └── style.css
 │
-├── pasta js
-│   └── script.js
-│
 └── pasta assets
     ├── imagens
        ├── garden.png
