@@ -5,9 +5,8 @@
 ~~~
 GardenOfWords
 │
-├── pasta html
-│   └── index.html
-│
+├── index.html
+│    
 ├── pasta css
 │   └── style.css
 │
