@@ -3,7 +3,7 @@
 ## Estrutura do Projeto
 
 ~~~
-projeto
+GardenOfWords
 │
 ├── pasta html
 │   └── index.html
